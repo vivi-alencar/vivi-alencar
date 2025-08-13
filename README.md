@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Olá! Eu sou a Viviane
+
+Sou graduada em Matemática e Física Aplicadas pela TH Nürnberg (Alemanha) e estou em transição para a área de dados.
+
+Tenho mais de 10 anos de experiência como tradutora técnica, com foco em softwares CAD/CAM e interfaces de usuário. Sempre fui curiosa sobre como as coisas funcionam — e hoje aplico essa curiosidade em dados.
+
+🔎 Meus repositórios são meu laboratório de aprendizado — feedbacks são bem-vindos!
 
 <!--
 **vivi-alencar/vivi-alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
